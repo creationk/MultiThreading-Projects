@@ -1,4 +1,4 @@
-package com;
+package com.extends_thread;
 
 public class HelloWorld extends Thread {
 	public static void main (String [] args){
